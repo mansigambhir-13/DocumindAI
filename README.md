@@ -1,4 +1,4 @@
-# DocumindAI 🧠📚
+# IntelliDocAI 🧠📚
 
 *Intelligent Document Processing & Retrieval-Augmented Generation (RAG) Pipeline*
 
