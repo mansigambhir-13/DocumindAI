@@ -512,14 +512,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **OpenAI, Google, Anthropic** for AI API services
 - **Qdrant** for vector database technology
 
-## 💬 Support
 
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/mansigambhir-13/DocumindAI/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/mansigambhir-13/DocumindAI/discussions)
-- 📖 **Wiki**: [Project Wiki](https://github.com/mansigambhir-13/DocumindAI/wiki)
-
----
 
 <div align="center">
 
