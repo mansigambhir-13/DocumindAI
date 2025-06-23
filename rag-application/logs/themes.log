@@ -1,0 +1,7 @@
+2025-06-22 18:06:50,184 - INFO - Loading chunks from: c:\Users\DELL\Desktop\AI Internship RAG\rag-application\data\embeddings\all_chunks_with_embeddings.json
+2025-06-22 18:06:50,469 - INFO - Loaded embeddings from JSON: (514, 384)
+2025-06-22 18:07:32,540 - INFO - Created 5 clusters from 50 chunks
+2025-06-22 18:07:33,428 - WARNING - Groq API error: 503
+2025-06-22 18:07:35,423 - WARNING - Gemini API call failed: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-06-22 18:07:46,555 - WARNING - Groq API call failed: ('Connection broken: IncompleteRead(0 bytes read, 19 more expected)', IncompleteRead(0 bytes read, 19 more expected))
+2025-06-22 18:07:48,254 - WARNING - Gemini API call failed: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.

@@ -1,0 +1,11 @@
+2025-06-22 20:10:39,531 - __main__ - INFO - RAG Pipeline Controller initialized
+2025-06-22 20:10:39,538 - __main__ - INFO - Checking for files in: c:\Users\DELL\Desktop\AI Internship RAG\rag-application\data\raw
+2025-06-22 20:10:39,538 - __main__ - INFO - Directory exists: True
+2025-06-22 20:10:39,538 - __main__ - INFO - Items in directory: 75
+2025-06-22 20:10:39,538 - __main__ - INFO -   - business-standard.com_article-webview_finance_news_explained-jane-street-trading-revenue-global-india-sebi-probe-125061000933_1.html_print=1&isFree=false.pdf (file)
+2025-06-22 20:10:39,538 - __main__ - INFO -   - doc10.pdf (file)
+2025-06-22 20:10:39,538 - __main__ - INFO -   - doc11.pdf (file)
+2025-06-22 20:10:39,538 - __main__ - INFO -   - doc12.pdf (file)
+2025-06-22 20:10:39,538 - __main__ - INFO -   - doc13.pdf (file)
+2025-06-22 20:10:39,550 - __main__ - INFO - Found 75 PDF files and 0 image files in c:\Users\DELL\Desktop\AI Internship RAG\rag-application\data\raw
+2025-06-22 20:10:39,551 - __main__ - INFO - Sample PDF files: ['doc17.pdf', 'doc71.pdf', 'doc19.pdf']

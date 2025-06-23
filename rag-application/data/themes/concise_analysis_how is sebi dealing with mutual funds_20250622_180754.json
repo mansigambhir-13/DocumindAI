@@ -1,0 +1,512 @@
+{
+  "query": "how is sebi dealing with mutual funds",
+  "processed_at": "2025-06-22T18:07:54.942006",
+  "processing_time_seconds": 30.33,
+  "method": "concise_comprehensive_themes",
+  "total_themes": 5,
+  "available_services": [
+    "groq",
+    "gemini"
+  ],
+  "themes": [
+    {
+      "theme_title": "Analysis: india, mutual",
+      "comprehensive_answer": "This theme covers india, mutual, firms based on analysis of 24 document segments. Key findings include: What is Jane Street and why is Sebi probing the trading giant in India?. Jane Street is facing Sebi scrutiny in India and a lawsuit in the US after raking in billions through algorithmic trading strategies in equity derivatives markets Sundar Sethuraman New Delhi Jane Street is a significant player in global equities, bonds, and options markets. The information is sourced from 18 document(s): doc51, doc12, doc50. Plus 15 additional sources.",
+      "confidence": "medium",
+      "answer_length": 87,
+      "service_used": "fallback",
+      "citations": [
+        {
+          "doc_name": "business-standard.com_article-webview_finance_news_explained-jane-street-trading-revenue-global-india-sebi-probe-125061000933_1.html_print=1&isFree=false",
+          "doc_id": "49aa03b4-e2c9-42e0-893d-535e94b285ed",
+          "page": 1,
+          "chunk_id": "49aa03b4-e2c9-42e0-893d-535e94b285ed_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.533
+        },
+        {
+          "doc_name": "business-standard.com_article-webview_finance_news_explained-jane-street-trading-revenue-global-india-sebi-probe-125061000933_1.html_print=1&isFree=false",
+          "doc_id": "49aa03b4-e2c9-42e0-893d-535e94b285ed",
+          "page": 1,
+          "chunk_id": "49aa03b4-e2c9-42e0-893d-535e94b285ed_chunk_2",
+          "paragraph_number": null,
+          "relevance_score": 0.533
+        },
+        {
+          "doc_name": "business-standard.com_article-webview_finance_news_explained-jane-street-trading-revenue-global-india-sebi-probe-125061000933_1.html_print=1&isFree=false",
+          "doc_id": "49aa03b4-e2c9-42e0-893d-535e94b285ed",
+          "page": 1,
+          "chunk_id": "49aa03b4-e2c9-42e0-893d-535e94b285ed_chunk_3",
+          "paragraph_number": null,
+          "relevance_score": 0.533
+        },
+        {
+          "doc_name": "doc34",
+          "doc_id": "279bbae3-88d3-47d4-a8c5-50c59485c956",
+          "page": 1,
+          "chunk_id": "279bbae3-88d3-47d4-a8c5-50c59485c956_chunk_2",
+          "paragraph_number": null,
+          "relevance_score": 0.5
+        },
+        {
+          "doc_name": "doc9",
+          "doc_id": "d6df2ffc-cc76-4c4f-925c-fc60c4750220",
+          "page": 3,
+          "chunk_id": "d6df2ffc-cc76-4c4f-925c-fc60c4750220_chunk_13",
+          "paragraph_number": null,
+          "relevance_score": 0.5
+        },
+        {
+          "doc_name": "business-standard.com_article-webview_finance_news_explained-jane-street-trading-revenue-global-india-sebi-probe-125061000933_1.html_print=1&isFree=false",
+          "doc_id": "49aa03b4-e2c9-42e0-893d-535e94b285ed",
+          "page": 1,
+          "chunk_id": "49aa03b4-e2c9-42e0-893d-535e94b285ed_chunk_4",
+          "paragraph_number": null,
+          "relevance_score": 0.367
+        },
+        {
+          "doc_name": "doc27",
+          "doc_id": "e229665f-f104-4f4c-a11b-ea4895ab0497",
+          "page": 2,
+          "chunk_id": "e229665f-f104-4f4c-a11b-ea4895ab0497_chunk_3",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc49",
+          "doc_id": "ad7bc857-8f26-4496-8e2d-d2250a53cc68",
+          "page": 3,
+          "chunk_id": "ad7bc857-8f26-4496-8e2d-d2250a53cc68_chunk_8",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc50",
+          "doc_id": "1a9f5dc6-3df7-484b-8b48-af43bc08f60e",
+          "page": 3,
+          "chunk_id": "1a9f5dc6-3df7-484b-8b48-af43bc08f60e_chunk_8",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc51",
+          "doc_id": "70930c3f-c3fe-43cd-b505-6d035798eae9",
+          "page": 3,
+          "chunk_id": "70930c3f-c3fe-43cd-b505-6d035798eae9_chunk_8",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc53",
+          "doc_id": "e423818f-cb9c-4b53-a83a-8256ffae4a55",
+          "page": 1,
+          "chunk_id": "e423818f-cb9c-4b53-a83a-8256ffae4a55_chunk_2",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc57",
+          "doc_id": "4b517743-8017-4842-806f-7482f95ca059",
+          "page": 1,
+          "chunk_id": "4b517743-8017-4842-806f-7482f95ca059_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc63",
+          "doc_id": "26d1143a-da36-44cb-a42b-bf3ebd616ec5",
+          "page": 1,
+          "chunk_id": "26d1143a-da36-44cb-a42b-bf3ebd616ec5_chunk_2",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc69",
+          "doc_id": "f52b7880-3baf-4926-88a1-f33984f5a54b",
+          "page": 1,
+          "chunk_id": "f52b7880-3baf-4926-88a1-f33984f5a54b_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc72",
+          "doc_id": "99d5cacf-5221-4eed-933e-41856c2a4fde",
+          "page": 3,
+          "chunk_id": "99d5cacf-5221-4eed-933e-41856c2a4fde_chunk_8",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "business-standard.com_article-webview_finance_news_explained-jane-street-trading-revenue-global-india-sebi-probe-125061000933_1.html_print=1&isFree=false",
+          "doc_id": "49aa03b4-e2c9-42e0-893d-535e94b285ed",
+          "page": 2,
+          "chunk_id": "49aa03b4-e2c9-42e0-893d-535e94b285ed_chunk_5",
+          "paragraph_number": null,
+          "relevance_score": 0.2
+        },
+        {
+          "doc_name": "doc10",
+          "doc_id": "f0705f44-a51d-425b-8901-69ed332d9d54",
+          "page": 4,
+          "chunk_id": "f0705f44-a51d-425b-8901-69ed332d9d54_chunk_16",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc12",
+          "doc_id": "2537075a-eca1-4187-81d8-5cabaddaaf05",
+          "page": 1,
+          "chunk_id": "2537075a-eca1-4187-81d8-5cabaddaaf05_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc12",
+          "doc_id": "2537075a-eca1-4187-81d8-5cabaddaaf05",
+          "page": 2,
+          "chunk_id": "2537075a-eca1-4187-81d8-5cabaddaaf05_chunk_3",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc13",
+          "doc_id": "468d8a1e-ccad-4a1e-a58b-7531b3ae3a22",
+          "page": 1,
+          "chunk_id": "468d8a1e-ccad-4a1e-a58b-7531b3ae3a22_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc14",
+          "doc_id": "2a9f4cb5-9833-48ac-bc69-33787444736e",
+          "page": 1,
+          "chunk_id": "2a9f4cb5-9833-48ac-bc69-33787444736e_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc16",
+          "doc_id": "7378ab80-f55f-43f3-8c87-69cc22b0fc8e",
+          "page": 1,
+          "chunk_id": "7378ab80-f55f-43f3-8c87-69cc22b0fc8e_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc19",
+          "doc_id": "ab2e696d-a481-42c6-b6d6-e43a813731c6",
+          "page": 2,
+          "chunk_id": "ab2e696d-a481-42c6-b6d6-e43a813731c6_chunk_4",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc19",
+          "doc_id": "ab2e696d-a481-42c6-b6d6-e43a813731c6",
+          "page": 2,
+          "chunk_id": "ab2e696d-a481-42c6-b6d6-e43a813731c6_chunk_5",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        }
+      ],
+      "cluster_size": 24,
+      "top_keywords": [
+        "india",
+        "mutual",
+        "firms",
+        "growth",
+        "sector"
+      ],
+      "method": "comprehensive_synthesis"
+    },
+    {
+      "theme_title": "SEBI's Approach to Mutual Funds",
+      "comprehensive_answer": "SEBI, the Securities and Exchange Board of India, is taking a proactive approach to ensure transparency and fairness in the mutual fund industry. One area of focus is the expense ratio of fund of funds (FoFs) schemes, which may be masking the real cost due to hidden charges in underlying funds. DSP Mutual Fund has warned that expense ratios of some FoFs schemes may not reflect the total cost, urging transparent disclosure. To address this issue, DSP Mutual Fund discloses the Total Expense Ratio (TER) of its FoFs, which includes both the cost of the FoF itself and that of the underlying funds. This comprehensive disclosure is essential for investors to make well-informed decisions about their investments. SEBI's efforts to promote transparency and fairness in the mutual fund industry are crucial for protecting investors' interests and maintaining market integrity.",
+      "confidence": "high",
+      "answer_length": 139,
+      "service_used": "groq",
+      "citations": [
+        {
+          "doc_name": "doc40",
+          "doc_id": "d2b362a5-3586-4fd9-b061-720ae3ccb32b",
+          "page": 1,
+          "chunk_id": "d2b362a5-3586-4fd9-b061-720ae3ccb32b_chunk_3",
+          "paragraph_number": null,
+          "relevance_score": 0.5
+        },
+        {
+          "doc_name": "doc65",
+          "doc_id": "4bee9aa8-4b4b-42b6-840d-210b777a408a",
+          "page": 1,
+          "chunk_id": "4bee9aa8-4b4b-42b6-840d-210b777a408a_chunk_3",
+          "paragraph_number": null,
+          "relevance_score": 0.5
+        },
+        {
+          "doc_name": "doc66",
+          "doc_id": "65895cc4-ef16-4d5e-ac92-c90ed0c1f3c2",
+          "page": 1,
+          "chunk_id": "65895cc4-ef16-4d5e-ac92-c90ed0c1f3c2_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.5
+        },
+        {
+          "doc_name": "doc40",
+          "doc_id": "d2b362a5-3586-4fd9-b061-720ae3ccb32b",
+          "page": 1,
+          "chunk_id": "d2b362a5-3586-4fd9-b061-720ae3ccb32b_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc40",
+          "doc_id": "d2b362a5-3586-4fd9-b061-720ae3ccb32b",
+          "page": 2,
+          "chunk_id": "d2b362a5-3586-4fd9-b061-720ae3ccb32b_chunk_5",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc65",
+          "doc_id": "4bee9aa8-4b4b-42b6-840d-210b777a408a",
+          "page": 1,
+          "chunk_id": "4bee9aa8-4b4b-42b6-840d-210b777a408a_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc65",
+          "doc_id": "4bee9aa8-4b4b-42b6-840d-210b777a408a",
+          "page": 2,
+          "chunk_id": "4bee9aa8-4b4b-42b6-840d-210b777a408a_chunk_5",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc67",
+          "doc_id": "7022cee3-5719-439c-ae19-2933f3c6ae6b",
+          "page": 1,
+          "chunk_id": "7022cee3-5719-439c-ae19-2933f3c6ae6b_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc68",
+          "doc_id": "f819817b-ef65-4e54-8224-5f88f3185338",
+          "page": 1,
+          "chunk_id": "f819817b-ef65-4e54-8224-5f88f3185338_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        }
+      ],
+      "cluster_size": 9,
+      "top_keywords": [
+        "fund",
+        "funds",
+        "mutual",
+        "expense",
+        "dsp"
+      ],
+      "method": "comprehensive_synthesis"
+    },
+    {
+      "theme_title": "SEBI's Role in Mutual Funds",
+      "comprehensive_answer": "SEBI, the Securities and Exchange Board of India, plays a crucial role in regulating and overseeing the mutual fund industry in India. However, in the context of the query, there is no mention of SEBI's involvement in mutual funds. The passages provided discuss the Karnataka High Court's examination of the role of the Central Crime Branch (CCB) in the investigation of the Bengaluru stampede, as well as the Chief Minister's comments on the investigation report. There is no mention of SEBI or mutual funds in these passages. Therefore, it is not possible to provide a comprehensive answer on SEBI's role in mutual funds based on the provided information.",
+      "confidence": "high",
+      "answer_length": 108,
+      "service_used": "groq",
+      "citations": [
+        {
+          "doc_name": "doc20",
+          "doc_id": "c78949ae-ccd6-4b41-90c8-702b0d6afd5a",
+          "page": 2,
+          "chunk_id": "c78949ae-ccd6-4b41-90c8-702b0d6afd5a_chunk_5",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc21",
+          "doc_id": "c1197109-674a-4069-84ea-54b7802b7e68",
+          "page": 2,
+          "chunk_id": "c1197109-674a-4069-84ea-54b7802b7e68_chunk_5",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc60",
+          "doc_id": "f6889bbc-0697-4228-9be0-1963deddc8df",
+          "page": 2,
+          "chunk_id": "f6889bbc-0697-4228-9be0-1963deddc8df_chunk_4",
+          "paragraph_number": null,
+          "relevance_score": 0.333
+        },
+        {
+          "doc_name": "doc10",
+          "doc_id": "f0705f44-a51d-425b-8901-69ed332d9d54",
+          "page": 7,
+          "chunk_id": "f0705f44-a51d-425b-8901-69ed332d9d54_chunk_24",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc17",
+          "doc_id": "40697102-c147-462e-9191-0aa2189c66a4",
+          "page": 2,
+          "chunk_id": "40697102-c147-462e-9191-0aa2189c66a4_chunk_3",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc18",
+          "doc_id": "d4bab04b-8146-4656-8056-0548f54bf920",
+          "page": 2,
+          "chunk_id": "d4bab04b-8146-4656-8056-0548f54bf920_chunk_3",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc18",
+          "doc_id": "d4bab04b-8146-4656-8056-0548f54bf920",
+          "page": 3,
+          "chunk_id": "d4bab04b-8146-4656-8056-0548f54bf920_chunk_4",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc20",
+          "doc_id": "c78949ae-ccd6-4b41-90c8-702b0d6afd5a",
+          "page": 1,
+          "chunk_id": "c78949ae-ccd6-4b41-90c8-702b0d6afd5a_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc20",
+          "doc_id": "c78949ae-ccd6-4b41-90c8-702b0d6afd5a",
+          "page": 2,
+          "chunk_id": "c78949ae-ccd6-4b41-90c8-702b0d6afd5a_chunk_4",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        }
+      ],
+      "cluster_size": 9,
+      "top_keywords": [
+        "court",
+        "investigation",
+        "stampede",
+        "also read",
+        "also"
+      ],
+      "method": "comprehensive_synthesis"
+    },
+    {
+      "theme_title": "Analysis: agriculture, per cent",
+      "comprehensive_answer": "This theme covers agriculture, per cent, per based on analysis of 5 document segments. Key findings include: 74% rural households expect income growth in 1 year: Nabard survey Forecast of 'above normal' southwest monsoon in 2025 that would boost farm growth and rising consumption demand in rural India has fuelled the positive change in the rural sector Sanjeeb Mukherjee Harsh Kumar Delhi A recent report by India Ratings said that real wages were expected to grow at a stable 6. Maharashtra urges farmers to delay sowing as monsoon lags until June 15 The Chief Minister's Office (CMO) stated that thunderstorms and heavy rainfall are expected in some areas and advised farmers and fisherfolk to exercise caution Press Trust of India Mumbai Rain is expected in parts of Marathwada between June 12 and 14, and in Konkan and Goa between June 12 and 15, with very heavy rainfall expected on June 13 and 14. The information is sourced from 2 document(s): doc11, doc15.",
+      "confidence": "medium",
+      "answer_length": 162,
+      "service_used": "fallback",
+      "citations": [
+        {
+          "doc_name": "doc11",
+          "doc_id": "92b8ac86-75c0-4b18-879a-a2f10d963700",
+          "page": 1,
+          "chunk_id": "92b8ac86-75c0-4b18-879a-a2f10d963700_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc15",
+          "doc_id": "6cbe57f0-cdda-4591-ae17-6b830971f1f5",
+          "page": 1,
+          "chunk_id": "6cbe57f0-cdda-4591-ae17-6b830971f1f5_chunk_1",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc15",
+          "doc_id": "6cbe57f0-cdda-4591-ae17-6b830971f1f5",
+          "page": 1,
+          "chunk_id": "6cbe57f0-cdda-4591-ae17-6b830971f1f5_chunk_2",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc15",
+          "doc_id": "6cbe57f0-cdda-4591-ae17-6b830971f1f5",
+          "page": 2,
+          "chunk_id": "6cbe57f0-cdda-4591-ae17-6b830971f1f5_chunk_5",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc15",
+          "doc_id": "6cbe57f0-cdda-4591-ae17-6b830971f1f5",
+          "page": 2,
+          "chunk_id": "6cbe57f0-cdda-4591-ae17-6b830971f1f5_chunk_6",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        }
+      ],
+      "cluster_size": 5,
+      "top_keywords": [
+        "agriculture",
+        "per cent",
+        "per",
+        "cent",
+        "june"
+      ],
+      "method": "comprehensive_synthesis"
+    },
+    {
+      "theme_title": "Theme 5",
+      "comprehensive_answer": "If you could provide more relevant passages or documents, I would be happy to assist you in creating a comprehensive answer for this theme.",
+      "confidence": "medium",
+      "answer_length": 24,
+      "service_used": "groq",
+      "citations": [
+        {
+          "doc_name": "doc16",
+          "doc_id": "7378ab80-f55f-43f3-8c87-69cc22b0fc8e",
+          "page": 2,
+          "chunk_id": "7378ab80-f55f-43f3-8c87-69cc22b0fc8e_chunk_6",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc16",
+          "doc_id": "7378ab80-f55f-43f3-8c87-69cc22b0fc8e",
+          "page": 2,
+          "chunk_id": "7378ab80-f55f-43f3-8c87-69cc22b0fc8e_chunk_7",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        },
+        {
+          "doc_name": "doc16",
+          "doc_id": "7378ab80-f55f-43f3-8c87-69cc22b0fc8e",
+          "page": 2,
+          "chunk_id": "7378ab80-f55f-43f3-8c87-69cc22b0fc8e_chunk_10",
+          "paragraph_number": null,
+          "relevance_score": 0.167
+        }
+      ],
+      "cluster_size": 3,
+      "top_keywords": [
+        "the identity",
+        "identity of",
+        "the deceased",
+        "deceased is yet",
+        "deceased is"
+      ],
+      "method": "comprehensive_synthesis"
+    }
+  ],
+  "summary": {
+    "total_words": 520,
+    "total_sources": 50,
+    "avg_answer_length": 104.0,
+    "services_used": [
+      "groq",
+      "fallback"
+    ]
+  }
+}

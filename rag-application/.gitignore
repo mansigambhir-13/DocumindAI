@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+data/chunks/
+data/embeddings/
+data/keywords/
+data/processed/
+.env

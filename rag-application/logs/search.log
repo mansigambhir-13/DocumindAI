@@ -1,0 +1,82 @@
+2025-06-22 17:36:13,362 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-06-22 17:36:13,364 - INFO - [OK] Connected to Qdrant Cloud
+2025-06-22 17:36:14,224 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections "HTTP/1.1 200 OK"
+2025-06-22 17:36:14,510 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks "HTTP/1.1 200 OK"
+2025-06-22 17:36:14,511 - INFO - [OK] Collection 'document_chunks' ready (1,592 points)
+2025-06-22 17:36:17,561 - INFO - [OK] Gemini embedding service ready: text-embedding-004
+2025-06-22 17:36:17,561 - INFO - [OK] Gemini answer generation ready
+2025-06-22 17:36:17,561 - INFO - HybridSemanticSearchEngine initialized successfully
+2025-06-22 17:36:17,838 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks "HTTP/1.1 200 OK"
+2025-06-22 17:36:42,744 - INFO - [INFO] Performing Qdrant search for: 'how does sebi did its check ?'
+2025-06-22 17:36:43,208 - INFO - [INFO] Extracted keywords: ['sebi', 'its', 'check']
+2025-06-22 17:36:44,133 - INFO - HTTP Request: POST https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks/points/query "HTTP/1.1 200 OK"
+2025-06-22 17:36:44,133 - INFO - [OK] Found 10 relevant chunks
+2025-06-22 17:36:44,133 - INFO - [INFO] Selecting best chunks from 10 candidates
+2025-06-22 17:36:44,133 - INFO - [OK] Selected 3 best chunks for answer generation
+2025-06-22 17:36:44,133 - INFO - [INFO] Generating answer using 3 chunks
+2025-06-22 17:36:44,452 - WARNING - API answer generation failed: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-06-22 17:36:44,456 - INFO - [OK] Answer generated with medium confidence
+2025-06-22 17:38:01,404 - INFO - [INFO] Performing Qdrant search for: 'what are mutual funds'
+2025-06-22 17:38:01,858 - INFO - [INFO] Extracted keywords: ['mutual', 'funds']
+2025-06-22 17:38:02,939 - INFO - HTTP Request: POST https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks/points/query "HTTP/1.1 200 OK"
+2025-06-22 17:38:02,954 - INFO - [OK] Found 10 relevant chunks
+2025-06-22 17:38:02,954 - INFO - [INFO] Selecting best chunks from 10 candidates
+2025-06-22 17:38:02,954 - INFO - [OK] Selected 3 best chunks for answer generation
+2025-06-22 17:38:02,954 - INFO - [INFO] Generating answer using 3 chunks
+2025-06-22 17:38:03,292 - WARNING - API answer generation failed: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-06-22 17:38:03,292 - INFO - [OK] Answer generated with medium confidence
+2025-06-22 17:47:08,210 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-06-22 17:47:08,216 - INFO - [OK] Connected to Qdrant Cloud
+2025-06-22 17:47:09,090 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections "HTTP/1.1 200 OK"
+2025-06-22 17:47:09,381 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks "HTTP/1.1 200 OK"
+2025-06-22 17:47:09,384 - INFO - [OK] Collection 'document_chunks' ready (1,592 points)
+2025-06-22 17:47:12,722 - INFO - [OK] Gemini embedding service ready: text-embedding-004
+2025-06-22 17:47:12,723 - INFO - [OK] Gemini answer generation ready
+2025-06-22 17:47:12,723 - INFO - HybridSemanticSearchEngine initialized successfully
+2025-06-22 17:47:13,023 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks "HTTP/1.1 200 OK"
+2025-06-22 17:47:18,852 - INFO - [INFO] Performing Qdrant search for: 'what is SEBI'
+2025-06-22 17:47:19,363 - INFO - [INFO] Extracted keywords: ['sebi']
+2025-06-22 17:47:20,290 - INFO - HTTP Request: POST https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks/points/query "HTTP/1.1 200 OK"
+2025-06-22 17:47:20,293 - INFO - [OK] Found 10 relevant chunks
+2025-06-22 17:47:20,294 - INFO - [INFO] Selecting best chunks from 10 candidates
+2025-06-22 17:47:20,294 - INFO - [OK] Selected 3 best chunks for answer generation
+2025-06-22 17:47:20,294 - INFO - [INFO] Generating answer using 3 chunks
+2025-06-22 17:47:20,640 - WARNING - API answer generation failed: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-06-22 17:47:20,640 - INFO - [OK] Answer generated with high confidence
+2025-06-22 17:52:23,850 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-06-22 17:52:23,857 - INFO - [OK] Connected to Qdrant Cloud
+2025-06-22 17:52:24,782 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections "HTTP/1.1 200 OK"
+2025-06-22 17:52:25,088 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks "HTTP/1.1 200 OK"
+2025-06-22 17:52:25,093 - INFO - [OK] Collection 'document_chunks' ready (1,592 points)
+2025-06-22 17:52:27,171 - INFO - [OK] Gemini embedding service ready: text-embedding-004
+2025-06-22 17:52:27,172 - INFO - [OK] Gemini answer generation ready
+2025-06-22 17:52:27,172 - INFO - HybridSemanticSearchEngine initialized successfully
+2025-06-22 17:52:27,479 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks "HTTP/1.1 200 OK"
+2025-06-22 17:52:36,370 - INFO - [INFO] Performing Qdrant search for: 'what is sebi'
+2025-06-22 17:52:36,847 - INFO - [INFO] Extracted keywords: ['sebi']
+2025-06-22 17:52:37,744 - INFO - HTTP Request: POST https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks/points/query "HTTP/1.1 200 OK"
+2025-06-22 17:52:37,747 - INFO - [OK] Found 10 relevant chunks
+2025-06-22 17:52:37,748 - INFO - [INFO] Selecting best chunks from 10 candidates
+2025-06-22 17:52:37,748 - INFO - [OK] Selected 3 best chunks for answer generation
+2025-06-22 17:52:37,748 - INFO - [INFO] Generating answer using 3 chunks
+2025-06-22 17:52:38,102 - WARNING - API answer generation failed: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-06-22 17:52:38,103 - INFO - [OK] Answer generated with high confidence
+2025-06-22 17:59:33,324 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-06-22 17:59:33,327 - INFO - [OK] Connected to Qdrant Cloud
+2025-06-22 17:59:34,184 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections "HTTP/1.1 200 OK"
+2025-06-22 17:59:34,483 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks "HTTP/1.1 200 OK"
+2025-06-22 17:59:34,489 - INFO - [OK] Collection 'document_chunks' ready (1,592 points)
+2025-06-22 17:59:38,498 - INFO - [OK] Gemini embedding service ready: text-embedding-004
+2025-06-22 17:59:38,499 - INFO - [OK] Gemini answer generation ready
+2025-06-22 17:59:38,499 - INFO - [OK] Groq answer generation ready
+2025-06-22 17:59:38,499 - INFO - Enhanced HybridSemanticSearchEngine initialized successfully
+2025-06-22 17:59:38,781 - INFO - HTTP Request: GET https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks "HTTP/1.1 200 OK"
+2025-06-22 17:59:53,922 - INFO - [INFO] Performing Qdrant search for: 'what is sebi ?'
+2025-06-22 17:59:54,361 - INFO - [INFO] Extracted keywords: ['sebi']
+2025-06-22 17:59:55,233 - INFO - HTTP Request: POST https://58611339-12b5-4d8d-87a6-997db3287184.us-west-1-0.aws.cloud.qdrant.io:6333/collections/document_chunks/points/query "HTTP/1.1 200 OK"
+2025-06-22 17:59:55,235 - INFO - [OK] Found 10 relevant chunks
+2025-06-22 17:59:55,235 - INFO - [INFO] Selecting best chunks from 10 candidates
+2025-06-22 17:59:55,235 - INFO - [OK] Selected 3 best chunks for answer generation
+2025-06-22 17:59:55,235 - INFO - [INFO] Generating answer using 3 chunks
+2025-06-22 17:59:55,567 - WARNING - Answer generation with gemini failed: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-06-22 17:59:57,087 - INFO - [OK] Answer generated with high confidence using groq
