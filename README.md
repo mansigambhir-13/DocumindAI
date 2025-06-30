@@ -8,7 +8,7 @@
 
 ## 🎯 Overview
 
-DocumindAI is a comprehensive **Retrieval-Augmented Generation (RAG)** system that transforms your documents into an intelligent, searchable knowledge base. Upload PDFs and images, ask questions in natural language, and get AI-powered answers with source citations.
+DocumindAI is a comprehensive **Retrieval-Augmented Generation (RAG)** system that transforms your medical resource  documents into an intelligent, searchable knowledge base. Upload PDFs and images, ask questions in natural language, and get AI-powered answers with source citations.
 
 ### ✨ Key Features
 
@@ -165,7 +165,7 @@ python main.py --version
 
 **Command Line Interface:**
 ```
-🔍 DocumindAI Search Interface
+🔍 Medical DocumindAI Search Interface
 ===============================
 
 💬 Ask a question about your documents:
@@ -186,9 +186,7 @@ Based on the analyzed documents, the main findings include:
 > 
 ```
 
-**Web Interface Demo:**
 
-![DocumindAI Web Demo](https://via.placeholder.com/800x500/667eea/ffffff?text=🚀+RAG+Pipeline+Demo)
 
 The Streamlit web interface provides:
 - **🎛️ Interactive Dashboard**: Real-time system statistics
@@ -281,7 +279,7 @@ streamlit run demo.py
 
 ### Environment Variables
 
-DocumindAI supports extensive configuration through environment variables:
+Medical DocumindAI supports extensive configuration through environment variables:
 
 #### AI Service Selection
 ```env
